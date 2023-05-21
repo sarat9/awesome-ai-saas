@@ -13,6 +13,15 @@
 - [Github Copilot](https://github.com/features/copilot) - Your AI pair programmer, GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [Codeball Ai](https://codeball.ai/) - AI-powered code review. Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence. The Codeball AI is trained on millions of code contributions to recognize risky code changes.
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An automated tool for code summarization and completion using GPT models.
+- [UseBlackBox](http://UseBlackBox.io) - Plain English to code
+- [Safurai](http://Safurai.com): Write code 10x faster with AI-powered coding assistance.
+- [Codeium](http://Codeium.com): Modern coding superpower: Unlock your modern coding superpowers with powerful tools and libraries.
+- [Spellbox](http://Spellbox.app): Prompts to code: Get prompt suggestions to enhance your coding productivity.
+- [Autoregex](http://Autoregex.xyz): English to regex: Convert English language patterns to regular expressions easily.
+- [Codesquire](http://Codesquire.ai): Turn your thoughts into code: Turn your thoughts and ideas into actual code with the help of AI.
+- [Taskade](http://Taskade.com/generate/ai-prte/ai-programming/front-end-code): Front-end code generator: Generate front-end code quickly and efficiently.
+- [Tabnine](http://Tabnine.com): Code faster with code completions: Boost your coding speed with AI-powered code completions.
+
 
 ## AI Design & Image Generation
 - [Dall-E](https://openai.com/dall-e-2/) - An AI system that can create realistic images and art from a description in natural language.
@@ -25,6 +34,10 @@
 - [Astria.ai](https://www.astria.ai/) - Tailor-made AI image generation.
 - [Nightcafe Studio](https://creator.nightcafe.studio/) - Create artworks in seconds using the power of Artificial Intelligence.
 - [Craiyon](https://www.craiyon.com/) - Formerly DALL·E mini, Craiyon is an AI model that can draw images from any text prompt!
+
+## Agent Based 
+- [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An automated tool for code summarization and completion using GPT models.
+
 
 ## NLP and models
 - [Hugging Face](https://huggingface.co/) - An AI library for natural language processing.
@@ -55,11 +68,18 @@
 
 - [RunwayML](https://runwayml.com/): AI does everything you need to do for a video. Remove objects from videos, generate images or characters, remove background voices, and more.
 - [Visla AI Video Generator](https://www.visla.us/ai-video-generator): Use AI to write compelling stories and create visually striking videos that resonate with your audience.
+- [elai.io](https://elai.io/): Paid - Create AI videos from just text. Build customized AI videos with a presenter in minutes without using a camera, studio and a green screen.
+- [Make-A-Video](https://makeavideo.studio/): Make-A-Video of Meta AI. State-of-the-art AI system that generates videos from text.
+- [Pictory.ai](https://pictory.ai/): Turn Scripts Into Jaw-Dropping Sales Videos. Transform Blog Posts Into Engaging Videos On Auto-Pilot. 
+- [invideo.io](https://invideo.io/): InVideo simplifies video creation with ready-made templates that you can quickly customize even if you’ve never done it before.
+
 
 ## Video Person Character
 
 - [D-ID](https://www.d-id.com/): AI-generated person character talks the text.
 - [B-Human](https://www.bhuman.ai/): AI real-time person character talks the text with different inputs.
+- [Synthesia.io](https://www.synthesia.io/): Create professional videos. Turn text into speech in over 120+ languages. Choose from over 125+ diverse AI Avatars.
+- [Deepbrain.io](https://www.deepbrain.io/): Create generative AI videos with just a script. Text to video. Photo-realistic AI avatars
 
 ## Podcast
 
