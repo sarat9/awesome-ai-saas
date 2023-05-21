@@ -22,7 +22,6 @@
 - [Taskade](http://Taskade.com/generate/ai-prte/ai-programming/front-end-code): Front-end code generator: Generate front-end code quickly and efficiently.
 - [Tabnine](http://Tabnine.com): Code faster with code completions: Boost your coding speed with AI-powered code completions.
 
-
 ## AI Design & Image Generation
 - [Dall-E](https://openai.com/dall-e-2/) - An AI system that can create realistic images and art from a description in natural language.
 - [Midjourney](https://midjourney.com/home/) - AI that can create realistic images from descriptions and uploaded pictures.
@@ -45,8 +44,9 @@
 ## Image 3D Models
 - [Luma Labs](https://lumalabs.ai/) - Create and search for 3D models for use on websites.
 
-## Build Websites
+## Build Apps with AI
 - [Sitekick AI](https://www.sitekick.ai/) - Creates landing pages in minutes.
+- [Auto code](https://autocode.com/) - Turn ideas into software with AI. No more reading API documentation. Build JavaScript-powered bots, scripts and APIs with code generation and instant deployment.
 
 ## Ask Anything
 - [ChatGPT](https://chat.openai.com/chat) - An AI chatbot that can answer anything, do text generation, solve math problems, and code. It offers conversation capabilities.
@@ -81,6 +81,11 @@
 - [Synthesia.io](https://www.synthesia.io/): Create professional videos. Turn text into speech in over 120+ languages. Choose from over 125+ diverse AI Avatars.
 - [Deepbrain.io](https://www.deepbrain.io/): Create generative AI videos with just a script. Text to video. Photo-realistic AI avatars
 
+## Image Editing
+- [Magic Eraser](https://magicstudio.com/magiceraser) : Remove unwanted things in seconds. Edit photos faster by removing any background objects using AI.
+
+(check out this example I did of a photo bomber on my hike)
+
 ## Podcast
 
 - [Adobe Podcast](https://podcast.adobe.com/): AI-powered audio recording and editing, all on the web. Work on sound quality, words spoken, and more.
@@ -98,6 +103,21 @@
 - [Dall-E](https://openai.com/dall-e/): An AI program that creates images from textual descriptions.
 - [GitHub Copilot](https://copilot.github.com/): An AI-powered code completion tool that helps developers write better code.
 - [FutureTools](https://www.futuretools.io/): A collection of AI-powered tools for developers, including code generation, image recognition, and more.
+
+## Git
+- [Gitfluence](https://www.gitfluence.com/) - Find the Git Command You Need Now!
+
+## E-Commerce
+- [Sizzlepop](https://sizzlepop.ai/) - Generate Images With a Prompt
+
+## Conversation
+- [Conversai](https://conversai.co/) - AI chat assistant that helps you respond to anything with just one click across any social media platform.
+
+## Excel and Sheets
+- [Sheetplus.ai](https://sheetplus.ai/) - Write Google Sheets & Excel formulas 10x faster with AI
+
+## Analysts Data Analysis
+- [akkio](https://www.akkio.com/) - Predictive AI for Analysts. Give your operations a competitive edge with rapid insights and effortless forecasts. No coding required.
 
 ##
 ##
