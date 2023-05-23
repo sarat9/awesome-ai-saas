@@ -81,6 +81,10 @@
 - [Synthesia.io](https://www.synthesia.io/): Create professional videos. Turn text into speech in over 120+ languages. Choose from over 125+ diverse AI Avatars.
 - [Deepbrain.io](https://www.deepbrain.io/): Create generative AI videos with just a script. Text to video. Photo-realistic AI avatars
 
+## VFX 
+- [WonderDynamics](https://wonderdynamics.com/) - An AI tool that automatically animates, lights and composes CG characters into a live-action scene
+
+
 ## Image Editing
 - [Magic Eraser](https://magicstudio.com/magiceraser) : Remove unwanted things in seconds. Edit photos faster by removing any background objects using AI.
 
