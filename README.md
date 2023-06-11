@@ -54,6 +54,7 @@
 
 ## Text to Speech
 - [Descript](https://www.descript.com/home-3) - Very human-readable and clones your voice. Text to speech to make video and podcasts.
+- [Eleven Labs](https://beta.elevenlabs.io/) -  Brings rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.
 
 ## Presentations
 
