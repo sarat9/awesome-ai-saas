@@ -36,6 +36,8 @@
 
 ## Agent Based 
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An automated tool for code summarization and completion using GPT models.
+- [SMOL AI](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer
+
 
 
 ## NLP and models
@@ -123,6 +125,9 @@
 
 ## Analysts Data Analysis
 - [akkio](https://www.akkio.com/) - Predictive AI for Analysts. Give your operations a competitive edge with rapid insights and effortless forecasts. No coding required.
+
+## Dating & Social
+- [Rizz GPT](https://www.rizzgpt.app/) - Dating, Act like an AI character. Improve your rizz.
 
 ##
 ##
