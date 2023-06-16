@@ -33,6 +33,7 @@
 - [Astria.ai](https://www.astria.ai/) - Tailor-made AI image generation.
 - [Nightcafe Studio](https://creator.nightcafe.studio/) - Create artworks in seconds using the power of Artificial Intelligence.
 - [Craiyon](https://www.craiyon.com/) - Formerly DALL·E mini, Craiyon is an AI model that can draw images from any text prompt!
+- [Imgcreator AI](https://imgcreator.ai/) - Text to image, image to image & chatGPT powered AI designer. Upload a photo of your space,let AI remodel your dream room in seconds
 
 ## Agent Based 
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An automated tool for code summarization and completion using GPT models.
@@ -125,6 +126,10 @@
 
 ## Analysts Data Analysis
 - [akkio](https://www.akkio.com/) - Predictive AI for Analysts. Give your operations a competitive edge with rapid insights and effortless forecasts. No coding required.
+
+## Real Estate
+- [Imgcreator AI](https://imgcreator.ai/) - Upload a photo of your space,let AI remodel your dream room in seconds
+
 
 ## Dating & Social
 - [Rizz GPT](https://www.rizzgpt.app/) - Dating, Act like an AI character. Improve your rizz.
