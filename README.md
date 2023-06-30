@@ -21,6 +21,7 @@
 - [Codesquire](http://Codesquire.ai): Turn your thoughts into code: Turn your thoughts and ideas into actual code with the help of AI.
 - [Taskade](http://Taskade.com/generate/ai-prte/ai-programming/front-end-code): Front-end code generator: Generate front-end code quickly and efficiently.
 - [Tabnine](http://Tabnine.com): Code faster with code completions: Boost your coding speed with AI-powered code completions.
+- [Jit.codes](https://jit.codes/): Auto code jsfiddle kind of code in HTML, CSS and Javascript
 
 ## AI Design & Image Generation
 - [Dall-E](https://openai.com/dall-e-2/) - An AI system that can create realistic images and art from a description in natural language.
