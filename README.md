@@ -26,7 +26,7 @@
 - [Feathery.io](https://www.feathery.io/)Powerful AI form builder for product teams
   
 
-## AI Design & Image Generation
+## AI Image Generation
 - [Dall-E](https://openai.com/dall-e-2/) - An AI system that can create realistic images and art from a description in natural language.
 - [Midjourney](https://midjourney.com/home/) - AI that can create realistic images from descriptions and uploaded pictures.
 - [Dreamlike Art](https://dreamlike.art/) - Create stunning original art in seconds with the power of AI.
@@ -38,6 +38,13 @@
 - [Nightcafe Studio](https://creator.nightcafe.studio/) - Create artworks in seconds using the power of Artificial Intelligence.
 - [Craiyon](https://www.craiyon.com/) - Formerly DALL·E mini, Craiyon is an AI model that can draw images from any text prompt!
 - [Imgcreator AI](https://imgcreator.ai/) - Text to image, image to image & chatGPT powered AI designer. Upload a photo of your space,let AI remodel your dream room in seconds
+
+## AI Design
+- [designer.microsoft](https://designer.microsoft.com/) - AI Designer for marketing brands and banners
+- [Diagram](https://diagram.com/) - Design tools for figma, svgs, images and many.
+- [logomaster.ai](https://logomaster.ai/) - Make a Logo in 5 Minutes
+
+
 
 ## Agent Based 
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An automated tool for code summarization and completion using GPT models.
