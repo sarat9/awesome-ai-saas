@@ -22,6 +22,9 @@
 - [Taskade](http://Taskade.com/generate/ai-prte/ai-programming/front-end-code): Front-end code generator: Generate front-end code quickly and efficiently.
 - [Tabnine](http://Tabnine.com): Code faster with code completions: Boost your coding speed with AI-powered code completions.
 - [Jit.codes](https://jit.codes/): Auto code jsfiddle kind of code in HTML, CSS and Javascript
+- [Jam.dev GPT](https://jam.dev/jamgpt): AI Debugging Assistant
+- [Feathery.io](https://www.feathery.io/)Powerful AI form builder for product teams
+  
 
 ## AI Design & Image Generation
 - [Dall-E](https://openai.com/dall-e-2/) - An AI system that can create realistic images and art from a description in natural language.
