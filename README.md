@@ -147,13 +147,23 @@
 
 ##
 ##
+##
+##
+##
+##
+##
+##
+
+# Repos
+
+
+## Face Swap/Detection
+- [InsightFace](https://github.com/deepinsight/insightface) : 2D and 3D Face Analysis Project
+- 
 
 
 ##
 ##
-
-# Chrome Extensions
-
-- [ChatGpt Chrome Extension](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf/related)
-
+##
+##
 
