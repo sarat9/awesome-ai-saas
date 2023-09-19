@@ -59,6 +59,7 @@
 
 ## Image 3D Models
 - [Luma Labs](https://lumalabs.ai/) - Create and search for 3D models for use on websites.
+  
 
 ## Build Apps with AI
 - [Sitekick AI](https://www.sitekick.ai/) - Creates landing pages in minutes.
@@ -68,31 +69,25 @@
 - [ChatGPT](https://chat.openai.com/chat) - An AI chatbot that can answer anything, do text generation, solve math problems, and code. It offers conversation capabilities.
 - [Perplexity AI](https://www.perplexity.ai/) - Instead of displaying a list of links, Perplexity AI goes through hundreds of links and summarizes the search results, including citations so that you can easily verify the accuracy of the information provided. Uses OpenAI GPT 3.5 and Microsoft Bing to directly answer any question you ask.
 
-## Text to Speech
+## Text to Speech / Voice / Language / Dubbing
 - [Descript](https://www.descript.com/home-3) - Very human-readable and clones your voice. Text to speech to make video and podcasts.
-- [Eleven Labs](https://beta.elevenlabs.io/) -  Brings rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.
+- [Eleven Labs](https://beta.elevenlabs.io/) -  Brings rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. Can use different accents and languages.
+- [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - Accurately Lip-syncing Videos to the given Audio
+- [voice.ai](https://voice.ai/) - Free Real Time Voice Changer. Choose from 1000s of different voices in Voice Universe and create your own with audio.
 
-## Presentations
-
-- [Tome](https://beta.tome.app/): AI-powered generative storytelling and presentations. Enter a prompt and it will generate a presentation with data generation, image generation, and lots of features.
-
-## Marketing
-
-- [Copy.ai](https://www.copy.ai/): AI to polish your blogs and rewrite sentences. AI to write marketing and social media titles and descriptions for sales.
-- [Jasper](https://www.jasper.ai/): Generative AI platform for business that helps your team create content tailored for your brand 10x faster, in social media, advertising, and content.
 
 ## Video Generation and Editing
-
 - [RunwayML](https://runwayml.com/): AI does everything you need to do for a video. Remove objects from videos, generate images or characters, remove background voices, and more.
 - [Visla AI Video Generator](https://www.visla.us/ai-video-generator): Use AI to write compelling stories and create visually striking videos that resonate with your audience.
 - [elai.io](https://elai.io/): Paid - Create AI videos from just text. Build customized AI videos with a presenter in minutes without using a camera, studio and a green screen.
 - [Make-A-Video](https://makeavideo.studio/): Make-A-Video of Meta AI. State-of-the-art AI system that generates videos from text.
 - [Pictory.ai](https://pictory.ai/): Turn Scripts Into Jaw-Dropping Sales Videos. Transform Blog Posts Into Engaging Videos On Auto-Pilot. 
 - [invideo.io](https://invideo.io/): InVideo simplifies video creation with ready-made templates that you can quickly customize even if you’ve never done it before.
+- [move.ai](https://www.move.ai/) - Helps convert normal videos to 3D and  bring motion into digital worlds at a limitless scale
+- [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - Accurately Lip-syncing Videos to the given Audio
 
 
 ## Video Person Character
-
 - [D-ID](https://www.d-id.com/): AI-generated person character talks the text.
 - [B-Human](https://www.bhuman.ai/): AI real-time person character talks the text with different inputs.
 - [Synthesia.io](https://www.synthesia.io/): Create professional videos. Turn text into speech in over 120+ languages. Choose from over 125+ diverse AI Avatars.
@@ -100,15 +95,23 @@
 
 ## VFX 
 - [WonderDynamics](https://wonderdynamics.com/) - An AI tool that automatically animates, lights and composes CG characters into a live-action scene
+- [move.ai](https://www.move.ai/) - Helps convert normal videos to 3D and  bring motion into digital worlds at a limitless scale
 
 
 ## Image Editing
 - [Magic Eraser](https://magicstudio.com/magiceraser) : Remove unwanted things in seconds. Edit photos faster by removing any background objects using AI.
 
-(check out this example I did of a photo bomber on my hike)
+
+## Presentations
+- [Tome](https://beta.tome.app/): AI-powered generative storytelling and presentations. Enter a prompt and it will generate a presentation with data generation, image generation, and lots of features.
+
+## Marketing
+
+- [Copy.ai](https://www.copy.ai/): AI to polish your blogs and rewrite sentences. AI to write marketing and social media titles and descriptions for sales.
+- [Jasper](https://www.jasper.ai/): Generative AI platform for business that helps your team create content tailored for your brand 10x faster, in social media, advertising, and content.
+
 
 ## Podcast
-
 - [Adobe Podcast](https://podcast.adobe.com/): AI-powered audio recording and editing, all on the web. Work on sound quality, words spoken, and more.
 - [Deciphr](https://www.deciphr.ai/): Deciphr timestamps and summarizes your entire podcast transcript for you, powered by deep AI.
 
