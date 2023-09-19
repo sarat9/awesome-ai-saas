@@ -24,8 +24,16 @@
 - [Jit.codes](https://jit.codes/): Auto code jsfiddle kind of code in HTML, CSS and Javascript
 - [Jam.dev GPT](https://jam.dev/jamgpt): AI Debugging Assistant
 - [Feathery.io](https://www.feathery.io/)Powerful AI form builder for product teams
-  
+- [SMOL AI](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer
+- [open-interpreter](https://github.com/KillianLucas/open-interpreter) - Lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface.
+- [hyperwriteai](https://www.hyperwriteai.com/) - Uses browser in real-time and does the job for you. HyperWrite helps you work smarter, faster, and with ease.
 
+## Agent Based 
+- [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An automated tool for code summarization and completion using GPT models.
+- [SMOL AI](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer
+- [open-interpreter](https://github.com/KillianLucas/open-interpreter) - Lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface.
+- [hyperwriteai](https://www.hyperwriteai.com/) - Uses browser in real-time and does the job for you. HyperWrite helps you work smarter, faster, and with ease.
+  
 ## AI Image Generation
 - [Dall-E](https://openai.com/dall-e-2/) - An AI system that can create realistic images and art from a description in natural language.
 - [Midjourney](https://midjourney.com/home/) - AI that can create realistic images from descriptions and uploaded pictures.
@@ -44,13 +52,6 @@
 - [Diagram](https://diagram.com/) - Design tools for figma, svgs, images and many.
 - [logomaster.ai](https://logomaster.ai/) - Make a Logo in 5 Minutes
 - [library.relume](https://library.relume.io/) - Design and build a website with prompt. Access the world’s largest library of Figma & Webflow components and build better websites in hours, not days.
-
-
-
-## Agent Based 
-- [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An automated tool for code summarization and completion using GPT models.
-- [SMOL AI](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer
-
 
 
 ## NLP and models
