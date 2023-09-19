@@ -37,6 +37,7 @@
 ## AI Image Generation
 - [Dall-E](https://openai.com/dall-e-2/) - An AI system that can create realistic images and art from a description in natural language.
 - [Midjourney](https://midjourney.com/home/) - AI that can create realistic images from descriptions and uploaded pictures.
+- [ideogram.ai](https://ideogram.ai/) - AI that can create realistic images from descriptions and uploaded pictures.
 - [Dreamlike Art](https://dreamlike.art/) - Create stunning original art in seconds with the power of AI.
 - [Playground AI](https://playgroundai.com/) - Create imaginative images from text.
 - [Lexica Art](https://lexica.art/) - A search engine of images already generated. Can be used for websites and to learn the prompts used.
