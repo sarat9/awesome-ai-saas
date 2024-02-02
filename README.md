@@ -69,7 +69,8 @@
 - [Luma Labs](https://lumalabs.ai/) - Create and search for 3D models for use on websites.
 
 ## Ask Anything
-- [ChatGPT](https://chat.openai.com/chat) - An AI chatbot that can answer anything, do text generation, solve math problems, and code. It offers conversation capabilities.
+- [ChatGPT (openapi)](https://chat.openai.com/chat) - An AI chatbot that can answer anything, do text generation, solve math problems, and code. It offers conversation capabilities.
+- [Bard with Gemini (google)](https://bard.google.com/) - An AI chatbot that can answer anything From google.
 - [Perplexity AI](https://www.perplexity.ai/) - Instead of displaying a list of links, Perplexity AI goes through hundreds of links and summarizes the search results, including citations so that you can easily verify the accuracy of the information provided. Uses OpenAI GPT 3.5 and Microsoft Bing to directly answer any question you ask.
 
 ## Text to Speech / Voice / Language / Dubbing
