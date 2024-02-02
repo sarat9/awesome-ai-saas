@@ -48,6 +48,12 @@
 - [Craiyon](https://www.craiyon.com/) - Formerly DALL·E mini, Craiyon is an AI model that can draw images from any text prompt!
 - [Imgcreator AI](https://imgcreator.ai/) - Text to image, image to image & chatGPT powered AI designer. Upload a photo of your space,let AI remodel your dream room in seconds
 
+## Build Apps with AI
+- [Sitekick AI](https://www.sitekick.ai/) - Creates landing pages in minutes.
+- [Auto code](https://autocode.com/) - Turn ideas into software with AI. No more reading API documentation. Build JavaScript-powered bots, scripts and APIs with code generation and instant deployment.
+- [MakeReal.TLDraw](https://makereal.tldraw.com/) - Turn Hand drawn Sketches into Apps . [github](https://github.com/tldraw/make-real?tab=readme-ov-file)
+- [library.relume](https://library.relume.io/) - Design and build a website with prompt. Access the world’s largest library of Figma & Webflow components and build better websites in hours, not days.
+
 ## AI Design
 - [designer.microsoft](https://designer.microsoft.com/) - AI Designer for marketing brands and banners
 - [Diagram](https://diagram.com/) - Design tools for figma, svgs, images and many.
@@ -55,16 +61,12 @@
 - [library.relume](https://library.relume.io/) - Design and build a website with prompt. Access the world’s largest library of Figma & Webflow components and build better websites in hours, not days.
 
 
+
 ## NLP and models
 - [Hugging Face](https://huggingface.co/) - An AI library for natural language processing.
 
 ## Image 3D Models
 - [Luma Labs](https://lumalabs.ai/) - Create and search for 3D models for use on websites.
-  
-
-## Build Apps with AI
-- [Sitekick AI](https://www.sitekick.ai/) - Creates landing pages in minutes.
-- [Auto code](https://autocode.com/) - Turn ideas into software with AI. No more reading API documentation. Build JavaScript-powered bots, scripts and APIs with code generation and instant deployment.
 
 ## Ask Anything
 - [ChatGPT](https://chat.openai.com/chat) - An AI chatbot that can answer anything, do text generation, solve math problems, and code. It offers conversation capabilities.
@@ -133,7 +135,15 @@
 - [Gitfluence](https://www.gitfluence.com/) - Find the Git Command You Need Now!
 
 ## E-Commerce
+- [VMake.AI](https://vmake.ai/fashion-model-studio) - AI Fashion Model. Upload and Showcase your products on virtual models eliminating the need for traditional photoshoots.
+- [VMake.AI](https://vmake.ai/fashion-model-studio) - AI Product Image. Upload and Showcase your products in studio-style photography,it can automatically match the most suitable background for product images.
 - [Sizzlepop](https://sizzlepop.ai/) - Generate Images With a Prompt
+
+## Fashion
+- [VMake.AI](https://vmake.ai/fashion-model-studio) - AI Fashion Model. Upload and Showcase your products on virtual models eliminating the need for traditional photoshoots.
+
+## Photography
+- [VMake.AI](https://vmake.ai/fashion-model-studio) - AI Product Image. Upload and Showcase your products in studio-style photography,it can automatically match the most suitable background for product images.
 
 ## Conversation
 - [Conversai](https://conversai.co/) - AI chat assistant that helps you respond to anything with just one click across any social media platform.
@@ -165,6 +175,7 @@
 
 ## Face Swap/Detection
 - [InsightFace](https://github.com/deepinsight/insightface) : 2D and 3D Face Analysis Project
+- [MakeReal by tldraw](https://github.com/tldraw/make-real?tab=readme-ov-file) : Turn Hand drawn Sketches into Apps
 - 
 
 
