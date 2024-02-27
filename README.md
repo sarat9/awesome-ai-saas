@@ -27,6 +27,7 @@
 - [SMOL AI](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter) - Lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface.
 - [hyperwriteai](https://www.hyperwriteai.com/) - Uses browser in real-time and does the job for you. HyperWrite helps you work smarter, faster, and with ease.
+- [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 
 ## Agent Based 
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - An automated tool for code summarization and completion using GPT models.
