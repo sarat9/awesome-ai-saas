@@ -67,6 +67,7 @@
 - [Hugging Face](https://huggingface.co/) - An AI library for natural language processing.
 
 ## Image 3D Models
+- [Anything World](https://app.anything.world/animation-rigging) - Animate 3D Models with AI. Upload 3D model and let AI enhance, create skeleton for it and build naimations for you.
 - [Luma Labs](https://lumalabs.ai/) - Create and search for 3D models for use on websites.
 
 ## Ask Anything
