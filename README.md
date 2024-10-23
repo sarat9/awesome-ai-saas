@@ -142,6 +142,9 @@
 - [VMake.AI](https://vmake.ai/fashion-model-studio) - AI Product Image. Upload and Showcase your products in studio-style photography,it can automatically match the most suitable background for product images.
 - [Sizzlepop](https://sizzlepop.ai/) - Generate Images With a Prompt
 
+## MindMapping
+- [[MindMap AI]](https://mindmapai.app/) - AI-powered mind maps help you brainstorm more easily and stay organized
+
 ## Fashion
 - [VMake.AI](https://vmake.ai/fashion-model-studio) - AI Fashion Model. Upload and Showcase your products on virtual models eliminating the need for traditional photoshoots.
 
