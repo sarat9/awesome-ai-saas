@@ -162,6 +162,7 @@
 
 ## Real Estate
 - [Imgcreator AI](https://imgcreator.ai/) - Upload a photo of your space,let AI remodel your dream room in seconds
+- [RoomGPT - Github](https://github.com/Nutlope/roomGPT) - Upload a photo of your space,let AI remodel your dream room in seconds
 
 
 ## Dating & Social
@@ -176,17 +177,22 @@
 ##
 ##
 
-# Repos
+# Github Repos
 
 
 ## Face Swap/Detection
 - [InsightFace](https://github.com/deepinsight/insightface) : 2D and 3D Face Analysis Project
 - [MakeReal by tldraw](https://github.com/tldraw/make-real?tab=readme-ov-file) : Turn Hand drawn Sketches into Apps
-- 
+- [RoomGPT - Github](https://github.com/Nutlope/roomGPT) - Upload a photo of your space, let AI remodel your dream room in seconds
+
 
 
 ##
 ##
+
+## Hosted ML Models
+- [replicate](https://replicate.com/home) - Run AI with an API.
+
 ##
 ##
 
