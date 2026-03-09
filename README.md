@@ -74,6 +74,7 @@
 - [ChatGPT (openapi)](https://chat.openai.com/chat) - An AI chatbot that can answer anything, do text generation, solve math problems, and code. It offers conversation capabilities.
 - [Bard with Gemini (google)](https://bard.google.com/) - An AI chatbot that can answer anything From google.
 - [Perplexity AI](https://www.perplexity.ai/) - Instead of displaying a list of links, Perplexity AI goes through hundreds of links and summarizes the search results, including citations so that you can easily verify the accuracy of the information provided. Uses OpenAI GPT 3.5 and Microsoft Bing to directly answer any question you ask.
+- [BGPT MCP](https://bgpt.pro) - Hosted MCP server for searching scientific papers with full-text experimental data. 50 free searches, no API key needed.
 
 ## Text to Speech / Voice / Language / Dubbing
 - [Descript](https://www.descript.com/home-3) - Very human-readable and clones your voice. Text to speech to make video and podcasts.
