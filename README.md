@@ -116,6 +116,7 @@
 
 - [Copy.ai](https://www.copy.ai/): AI to polish your blogs and rewrite sentences. AI to write marketing and social media titles and descriptions for sales.
 - [Jasper](https://www.jasper.ai/): Generative AI platform for business that helps your team create content tailored for your brand 10x faster, in social media, advertising, and content.
+- [Serplux](https://serplux.com/): Supercharge your SEO and content workflows with Serplux's AI-powered agents. Automate insights, accelerate organic growth, and unlock revenue - all without lifting a finger.
 
 
 ## Podcast
