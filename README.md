@@ -118,6 +118,7 @@
 - [Copy.ai](https://www.copy.ai/): AI to polish your blogs and rewrite sentences. AI to write marketing and social media titles and descriptions for sales.
 - [Jasper](https://www.jasper.ai/): Generative AI platform for business that helps your team create content tailored for your brand 10x faster, in social media, advertising, and content.
 - [Serplux](https://serplux.com/): Supercharge your SEO and content workflows with Serplux's AI-powered agents. Automate insights, accelerate organic growth, and unlock revenue - all without lifting a finger.
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin for SEO and Google Ads. Connects Google Search Console, PageSpeed Insights, and Google Ads API to automate meta tag rewrites, schema markup, keyword bids, and content pushes to WordPress/Strapi/Contentful/Ghost.
 
 
 ## Podcast
@@ -201,4 +202,3 @@
 
 
 <a href="https://www.buymeacoffee.com/sarat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
