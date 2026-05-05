@@ -108,6 +108,7 @@
 
 ## Image Editing
 - [Magic Eraser](https://magicstudio.com/magiceraser) : Remove unwanted things in seconds. Edit photos faster by removing any background objects using AI.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free AI background remover that runs entirely in your browser (locally, no upload). Part of TinyTools, a collection of free single-purpose web utilities including OG image generator, favicon generator, color palette generator, AI cost calculator, and AI content disclosure generator. No signup, open source.
 
 
 ## Presentations
