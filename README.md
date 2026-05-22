@@ -108,6 +108,7 @@
 
 ## Image Editing
 - [Magic Eraser](https://magicstudio.com/magiceraser) : Remove unwanted things in seconds. Edit photos faster by removing any background objects using AI.
+- [RemoveGlassesGlare](https://removeglassesglare.com) : Remove eyeglasses glare in photos with one click using AI.
 
 
 ## Presentations
