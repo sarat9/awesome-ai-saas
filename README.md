@@ -109,6 +109,7 @@
 ## Image Editing
 - [Magic Eraser](https://magicstudio.com/magiceraser) : Remove unwanted things in seconds. Edit photos faster by removing any background objects using AI.
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free AI background remover that runs entirely in your browser (locally, no upload). Part of TinyTools, a collection of free single-purpose web utilities including OG image generator, favicon generator, color palette generator, AI cost calculator, and AI content disclosure generator. No signup, open source.
+- [RemoveGlassesGlare](https://removeglassesglare.com) : Remove eyeglasses glare in photos with one click using AI.
 
 
 ## Presentations
@@ -119,6 +120,7 @@
 - [Copy.ai](https://www.copy.ai/): AI to polish your blogs and rewrite sentences. AI to write marketing and social media titles and descriptions for sales.
 - [Jasper](https://www.jasper.ai/): Generative AI platform for business that helps your team create content tailored for your brand 10x faster, in social media, advertising, and content.
 - [Serplux](https://serplux.com/): Supercharge your SEO and content workflows with Serplux's AI-powered agents. Automate insights, accelerate organic growth, and unlock revenue - all without lifting a finger.
+- [AdDogs](https://www.addogs.ai): AI ad creative generator. Clone any winning ad design, swap in your product photo, apply your brand colors and logo in 10 seconds. Built for e-commerce and DTC brands.
 
 
 ## Podcast
@@ -162,6 +164,7 @@
 - [Sheetplus.ai](https://sheetplus.ai/) - Write Google Sheets & Excel formulas 10x faster with AI
 
 ## Analysts Data Analysis
+- [AI for Database](https://aifordatabase.com/) - Connect to any database and query it in natural language. No SQL needed — instant insights, self-refreshing dashboards, and automated workflows triggered by database changes.
 - [akkio](https://www.akkio.com/) - Predictive AI for Analysts. Give your operations a competitive edge with rapid insights and effortless forecasts. No coding required.
 
 ## Real Estate
