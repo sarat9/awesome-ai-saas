@@ -163,6 +163,7 @@
 - [Sheetplus.ai](https://sheetplus.ai/) - Write Google Sheets & Excel formulas 10x faster with AI
 
 ## Analysts Data Analysis
+- [AI for Database](https://aifordatabase.com/) - Connect to any database and query it in natural language. No SQL needed — instant insights, self-refreshing dashboards, and automated workflows triggered by database changes.
 - [akkio](https://www.akkio.com/) - Predictive AI for Analysts. Give your operations a competitive edge with rapid insights and effortless forecasts. No coding required.
 
 ## Real Estate
