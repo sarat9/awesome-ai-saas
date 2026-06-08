@@ -47,6 +47,7 @@
 - [DeepAI](https://deepai.org/) - Offers a suite of tools that use AI to enhance your creativity. Create and also edit existing images with simple prompts.
 - [Astria.ai](https://www.astria.ai/) - Tailor-made AI image generation.
 - [Nightcafe Studio](https://creator.nightcafe.studio/) - Create artworks in seconds using the power of Artificial Intelligence.
+- [igly.ai](https://igly.ai/) - Free AI image editor with 12+ tools for e-commerce sellers — background removal, image generation, inpainting, upscaling, virtual try-on.
 - [Craiyon](https://www.craiyon.com/) - Formerly DALL·E mini, Craiyon is an AI model that can draw images from any text prompt!
 - [Imgcreator AI](https://imgcreator.ai/) - Text to image, image to image & chatGPT powered AI designer. Upload a photo of your space,let AI remodel your dream room in seconds
 
