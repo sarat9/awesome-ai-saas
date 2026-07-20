@@ -161,6 +161,7 @@
 
 ## Conversation
 - [Conversai](https://conversai.co/) - AI chat assistant that helps you respond to anything with just one click across any social media platform.
+- [Hellomatik](https://hellomatik.com) - AI agent platform that answers, sells and books across WhatsApp, email and web from your company knowledge.
 
 ## Excel and Sheets
 - [Sheetplus.ai](https://sheetplus.ai/) - Write Google Sheets & Excel formulas 10x faster with AI
