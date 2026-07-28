@@ -83,6 +83,7 @@
 - [Eleven Labs](https://beta.elevenlabs.io/) -  Brings rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. Can use different accents and languages.
 - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - Accurately Lip-syncing Videos to the given Audio
 - [voice.ai](https://voice.ai/) - Free Real Time Voice Changer. Choose from 1000s of different voices in Voice Universe and create your own with audio.
+- [NitroTranslate](https://nitrotranslate.com) - First professional human translation service payable by AI agents via Machine Payments Protocol.
 
 
 ## Video Generation and Editing
