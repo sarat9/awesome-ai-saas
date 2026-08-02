@@ -48,6 +48,7 @@
 - [Astria.ai](https://www.astria.ai/) - Tailor-made AI image generation.
 - [Nightcafe Studio](https://creator.nightcafe.studio/) - Create artworks in seconds using the power of Artificial Intelligence.
 - [igly.ai](https://igly.ai/) - Free AI image editor with 12+ tools for e-commerce sellers — background removal, image generation, inpainting, upscaling, virtual try-on.
+- [Rao Edits](https://raoedits.top/) - Browser-based text-to-image and reference-image editing for marketing, social, and CapCut visuals.
 - [Craiyon](https://www.craiyon.com/) - Formerly DALL·E mini, Craiyon is an AI model that can draw images from any text prompt!
 - [Imgcreator AI](https://imgcreator.ai/) - Text to image, image to image & chatGPT powered AI designer. Upload a photo of your space,let AI remodel your dream room in seconds
 
