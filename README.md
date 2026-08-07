@@ -123,6 +123,7 @@
 - [Serplux](https://serplux.com/): Supercharge your SEO and content workflows with Serplux's AI-powered agents. Automate insights, accelerate organic growth, and unlock revenue - all without lifting a finger.
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin for SEO and Google Ads. Connects Google Search Console, PageSpeed Insights, and Google Ads API to automate meta tag rewrites, schema markup, keyword bids, and content pushes to WordPress/Strapi/Contentful/Ghost.
 - [AdDogs](https://www.addogs.ai): AI ad creative generator. Clone any winning ad design, swap in your product photo, apply your brand colors and logo in 10 seconds. Built for e-commerce and DTC brands.
+- [Autoposting](https://autoposting.ai): AI social media manager. Writes posts in your own voice, clips long video into short-form, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube. Plans from $10/mo.
 
 
 ## Podcast
