@@ -161,6 +161,7 @@
 
 ## Conversation
 - [Conversai](https://conversai.co/) - AI chat assistant that helps you respond to anything with just one click across any social media platform.
+- [Hermes](https://buildwithhermes.com/) - White label AI voice agent platform for agencies. Deploy phone agents under your own brand with built in CRM, outbound campaign orchestration, and per minute usage billing. Plans from $149/mo with 300 included minutes.
 
 ## Excel and Sheets
 - [Sheetplus.ai](https://sheetplus.ai/) - Write Google Sheets & Excel formulas 10x faster with AI
