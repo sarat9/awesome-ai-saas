@@ -201,6 +201,7 @@
 
 ## Hosted ML Models
 - [replicate](https://replicate.com/home) - Run AI with an API.
+- [XiuRouter](https://router.xiu.ai/) - Usage-based model API service with OpenAI Chat Completions and Responses, Anthropic Messages, Gemini GenerateContent, scoped API keys, and request-level usage and cost records.
 
 ##
 ##
