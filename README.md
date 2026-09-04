@@ -35,6 +35,7 @@
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter) - Lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface.
 - [hyperwriteai](https://www.hyperwriteai.com/) - Uses browser in real-time and does the job for you. HyperWrite helps you work smarter, faster, and with ease.
 - [Potpie AI] - Use pre-built Q&A, Testing, Debugging, LLD agents or create your own custom purpose-built agent for *your* codebase.
+- [Orano](https://oranoai.com/) - AI app that turns saved Reels, videos, articles, and PDFs into structured projects with summaries, action plans, and learning roadmaps.
   
 ## AI Image Generation
 - [Dall-E](https://openai.com/dall-e-2/) - An AI system that can create realistic images and art from a description in natural language.
