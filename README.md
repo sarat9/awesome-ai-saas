@@ -201,6 +201,7 @@
 
 ## Hosted ML Models
 - [replicate](https://replicate.com/home) - Run AI with an API.
+- [APIClaw](https://apiclaw.biz/) - Flat-rate OpenAI-compatible AI API gateway for Claude, GPT, and 100+ models.
 
 ##
 ##
