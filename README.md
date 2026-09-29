@@ -52,6 +52,7 @@
 - [Imgcreator AI](https://imgcreator.ai/) - Text to image, image to image & chatGPT powered AI designer. Upload a photo of your space,let AI remodel your dream room in seconds
 
 ## Build Apps with AI
+- [LLMGraph](https://llmgraph.ai/) - No-code visual builder for LLM workflows. Turn your docs and models into RAG chatbots and AI agents, then deploy each to a REST API and an embeddable chat widget in one click.
 - [Sitekick AI](https://www.sitekick.ai/) - Creates landing pages in minutes.
 - [Auto code](https://autocode.com/) - Turn ideas into software with AI. No more reading API documentation. Build JavaScript-powered bots, scripts and APIs with code generation and instant deployment.
 - [MakeReal.TLDraw](https://makereal.tldraw.com/) - Turn Hand drawn Sketches into Apps . [github](https://github.com/tldraw/make-real?tab=readme-ov-file)
@@ -76,6 +77,7 @@
 - [ChatGPT (openapi)](https://chat.openai.com/chat) - An AI chatbot that can answer anything, do text generation, solve math problems, and code. It offers conversation capabilities.
 - [Bard with Gemini (google)](https://bard.google.com/) - An AI chatbot that can answer anything From google.
 - [Perplexity AI](https://www.perplexity.ai/) - Instead of displaying a list of links, Perplexity AI goes through hundreds of links and summarizes the search results, including citations so that you can easily verify the accuracy of the information provided. Uses OpenAI GPT 3.5 and Microsoft Bing to directly answer any question you ask.
+- [GPTGeminiGrok.AI](https://trygrokai.asia/) - Browser workspace for chatting with GPT, Gemini, Grok, and Claude, plus AI image generation.
 - [BGPT MCP](https://bgpt.pro) - Hosted MCP server for searching scientific papers with full-text experimental data. 50 free searches, no API key needed.
 
 ## Text to Speech / Voice / Language / Dubbing
@@ -83,6 +85,7 @@
 - [Eleven Labs](https://beta.elevenlabs.io/) -  Brings rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. Can use different accents and languages.
 - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - Accurately Lip-syncing Videos to the given Audio
 - [voice.ai](https://voice.ai/) - Free Real Time Voice Changer. Choose from 1000s of different voices in Voice Universe and create your own with audio.
+- [NitroTranslate](https://nitrotranslate.com) - First professional human translation service payable by AI agents via Machine Payments Protocol.
 
 
 ## Video Generation and Editing
@@ -91,6 +94,7 @@
 - [elai.io](https://elai.io/): Paid - Create AI videos from just text. Build customized AI videos with a presenter in minutes without using a camera, studio and a green screen.
 - [Make-A-Video](https://makeavideo.studio/): Make-A-Video of Meta AI. State-of-the-art AI system that generates videos from text.
 - [Pictory.ai](https://pictory.ai/): Turn Scripts Into Jaw-Dropping Sales Videos. Transform Blog Posts Into Engaging Videos On Auto-Pilot. 
+- [videos.social](https://videos.social/?utm_source=awesome-ai-saas&utm_medium=directory&utm_campaign=listing-wave-d): Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included.
 - [invideo.io](https://invideo.io/): InVideo simplifies video creation with ready-made templates that you can quickly customize even if you’ve never done it before.
 - [move.ai](https://www.move.ai/) - Helps convert normal videos to 3D and  bring motion into digital worlds at a limitless scale
 - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - Accurately Lip-syncing Videos to the given Audio
@@ -122,8 +126,11 @@
 - [Jasper](https://www.jasper.ai/): Generative AI platform for business that helps your team create content tailored for your brand 10x faster, in social media, advertising, and content.
 - [Serplux](https://serplux.com/): Supercharge your SEO and content workflows with Serplux's AI-powered agents. Automate insights, accelerate organic growth, and unlock revenue - all without lifting a finger.
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin for SEO and Google Ads. Connects Google Search Console, PageSpeed Insights, and Google Ads API to automate meta tag rewrites, schema markup, keyword bids, and content pushes to WordPress/Strapi/Contentful/Ghost.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP to automate site audits, keyword research, meta tags, schema markup, and paid-ads management.
 - [AdDogs](https://www.addogs.ai): AI ad creative generator. Clone any winning ad design, swap in your product photo, apply your brand colors and logo in 10 seconds. Built for e-commerce and DTC brands.
 - [CreatorSkills](https://creatorskills.co): Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
+- [AISO Tools](https://aisotools.com/): Audits whether ChatGPT, Perplexity, and Google AI Overviews actually recommend your site for the queries your buyers ask, and reports which citations and gaps are blocking it. Free audit; the catalog is also queryable over MCP.
+- [Spur AI](https://www.trispur.com/): AI LinkedIn content engine for B2B consultants, coaches, and agency owners. Generates posts and carousels from a niche and a format, with free no-signup generators plus a public API and MCP server so AI agents can call it directly.
 
 
 ## Podcast
@@ -162,6 +169,8 @@
 
 ## Conversation
 - [Conversai](https://conversai.co/) - AI chat assistant that helps you respond to anything with just one click across any social media platform.
+- [Hellomatik](https://hellomatik.com) - AI agents that prepare a company's decisions from one blueprint of its data, procedures and formulas, for an approver to accept, amend or reject.
+- [Hermes](https://buildwithhermes.com/) - White label AI voice agent platform for agencies. Deploy phone agents under your own brand with built in CRM, outbound campaign orchestration, and per minute usage billing. Plans from $149/mo with 300 included minutes.
 
 ## Excel and Sheets
 - [Sheetplus.ai](https://sheetplus.ai/) - Write Google Sheets & Excel formulas 10x faster with AI
@@ -174,6 +183,9 @@
 - [Imgcreator AI](https://imgcreator.ai/) - Upload a photo of your space,let AI remodel your dream room in seconds
 - [RoomGPT - Github](https://github.com/Nutlope/roomGPT) - Upload a photo of your space,let AI remodel your dream room in seconds
 
+
+## Career & Job Search
+- [AICareerPivot](https://ai-career-pivot.com/) - AI-powered career transition planner. Build personalized roadmaps based on your skills, finances, and constraints. Includes skill gap analysis, learning resources, and job tracking.
 
 ## Dating & Social
 - [Rizz GPT](https://www.rizzgpt.app/) - Dating, Act like an AI character. Improve your rizz.
@@ -202,6 +214,8 @@
 
 ## Hosted ML Models
 - [replicate](https://replicate.com/home) - Run AI with an API.
+- [XiuRouter](https://router.xiu.ai/) - Usage-based model API service with OpenAI Chat Completions and Responses, Anthropic Messages, Gemini GenerateContent, scoped API keys, and request-level usage and cost records.
+- [APIClaw](https://apiclaw.biz/) - Flat-rate OpenAI-compatible AI API gateway for Claude, GPT, and 100+ models.
 
 ##
 ##
