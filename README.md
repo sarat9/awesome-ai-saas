@@ -91,6 +91,7 @@
 - [elai.io](https://elai.io/): Paid - Create AI videos from just text. Build customized AI videos with a presenter in minutes without using a camera, studio and a green screen.
 - [Make-A-Video](https://makeavideo.studio/): Make-A-Video of Meta AI. State-of-the-art AI system that generates videos from text.
 - [Pictory.ai](https://pictory.ai/): Turn Scripts Into Jaw-Dropping Sales Videos. Transform Blog Posts Into Engaging Videos On Auto-Pilot. 
+- [videos.social](https://videos.social/?utm_source=awesome-ai-saas&utm_medium=directory&utm_campaign=listing-wave-d): Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included.
 - [invideo.io](https://invideo.io/): InVideo simplifies video creation with ready-made templates that you can quickly customize even if you’ve never done it before.
 - [move.ai](https://www.move.ai/) - Helps convert normal videos to 3D and  bring motion into digital worlds at a limitless scale
 - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - Accurately Lip-syncing Videos to the given Audio
@@ -123,6 +124,7 @@
 - [Serplux](https://serplux.com/): Supercharge your SEO and content workflows with Serplux's AI-powered agents. Automate insights, accelerate organic growth, and unlock revenue - all without lifting a finger.
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin for SEO and Google Ads. Connects Google Search Console, PageSpeed Insights, and Google Ads API to automate meta tag rewrites, schema markup, keyword bids, and content pushes to WordPress/Strapi/Contentful/Ghost.
 - [AdDogs](https://www.addogs.ai): AI ad creative generator. Clone any winning ad design, swap in your product photo, apply your brand colors and logo in 10 seconds. Built for e-commerce and DTC brands.
+- [Spur AI](https://www.trispur.com/): AI LinkedIn content engine for B2B consultants, coaches, and agency owners. Generates posts and carousels from a niche and a format, with free no-signup generators plus a public API and MCP server so AI agents can call it directly.
 
 
 ## Podcast
@@ -162,6 +164,7 @@
 ## Conversation
 - [Conversai](https://conversai.co/) - AI chat assistant that helps you respond to anything with just one click across any social media platform.
 - [Hellomatik](https://hellomatik.com) - AI agents that prepare a company's decisions from one blueprint of its data, procedures and formulas, for an approver to accept, amend or reject.
+- [Hermes](https://buildwithhermes.com/) - White label AI voice agent platform for agencies. Deploy phone agents under your own brand with built in CRM, outbound campaign orchestration, and per minute usage billing. Plans from $149/mo with 300 included minutes.
 
 ## Excel and Sheets
 - [Sheetplus.ai](https://sheetplus.ai/) - Write Google Sheets & Excel formulas 10x faster with AI
@@ -202,6 +205,7 @@
 
 ## Hosted ML Models
 - [replicate](https://replicate.com/home) - Run AI with an API.
+- [APIClaw](https://apiclaw.biz/) - Flat-rate OpenAI-compatible AI API gateway for Claude, GPT, and 100+ models.
 
 ##
 ##
