@@ -79,6 +79,7 @@
 - [Perplexity AI](https://www.perplexity.ai/) - Instead of displaying a list of links, Perplexity AI goes through hundreds of links and summarizes the search results, including citations so that you can easily verify the accuracy of the information provided. Uses OpenAI GPT 3.5 and Microsoft Bing to directly answer any question you ask.
 - [GPTGeminiGrok.AI](https://trygrokai.asia/) - Browser workspace for chatting with GPT, Gemini, Grok, and Claude, plus AI image generation.
 - [BGPT MCP](https://bgpt.pro) - Hosted MCP server for searching scientific papers with full-text experimental data. 50 free searches, no API key needed.
+- [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) - Base mainnet research API. Free x402 discovery; external USDC payers can buy a short research report ($2) or OpenAI-compatible chat ($0.001).
 
 ## Text to Speech / Voice / Language / Dubbing
 - [Descript](https://www.descript.com/home-3) - Very human-readable and clones your voice. Text to speech to make video and podcasts.
