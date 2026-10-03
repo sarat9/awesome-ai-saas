@@ -50,6 +50,7 @@
 - [igly.ai](https://igly.ai/) - Free AI image editor with 12+ tools for e-commerce sellers — background removal, image generation, inpainting, upscaling, virtual try-on.
 - [Craiyon](https://www.craiyon.com/) - Formerly DALL·E mini, Craiyon is an AI model that can draw images from any text prompt!
 - [Imgcreator AI](https://imgcreator.ai/) - Text to image, image to image & chatGPT powered AI designer. Upload a photo of your space,let AI remodel your dream room in seconds
+- [Tesla Wrap Generator](https://teslawrapgenerator.com/) - Turn a prompt or photo into a Tesla Paint Shop custom wrap for your exact model, preview it in 3D and download the PNG.
 
 ## Build Apps with AI
 - [LLMGraph](https://llmgraph.ai/) - No-code visual builder for LLM workflows. Turn your docs and models into RAG chatbots and AI agents, then deploy each to a REST API and an embeddable chat widget in one click.
