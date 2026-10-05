@@ -140,6 +140,7 @@
 ## Blogging
 
 - [RightBlogger](https://rightblogger.com/): AI-powered tools to generate a full article using a topic, conclusions, YouTube video description, tweet ideas, and more.
+- [AI eBook Pro](https://aiebookpro.com/): Turn one sentence into a complete eBook with chapters, a cover and PDF, EPUB and DOCX export.
 
 ## AI Daily Dev Tools
 
