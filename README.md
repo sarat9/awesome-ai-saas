@@ -162,6 +162,10 @@
 - [VMake.AI](https://vmake.ai/fashion-model-studio) - AI Product Image. Upload and Showcase your products in studio-style photography,it can automatically match the most suitable background for product images.
 - [Sizzlepop](https://sizzlepop.ai/) - Generate Images With a Prompt
 
+## Business & Opportunity Research
+
+- [CueKite](https://cuekite.com) - CueKite helps founders and builders find evidence-backed opportunities that fit their skills and constraints, then turn a chosen Idea into a practical Plan.
+
 ## MindMapping
 - [[MindMap AI]](https://mindmapai.app/) - AI-powered mind maps help you brainstorm more easily and stay organized
 
