@@ -123,6 +123,7 @@
 - [Tome](https://beta.tome.app/): AI-powered generative storytelling and presentations. Enter a prompt and it will generate a presentation with data generation, image generation, and lots of features.
 
 ## Marketing
+- [Describe Image](https://describeimage.io/tools/alt-text-generator) - Draft image alt text from an image and page context for content and accessibility workflows; review AI output before use, with free and account-credit limits.
 
 - [Copy.ai](https://www.copy.ai/): AI to polish your blogs and rewrite sentences. AI to write marketing and social media titles and descriptions for sales.
 - [Jasper](https://www.jasper.ai/): Generative AI platform for business that helps your team create content tailored for your brand 10x faster, in social media, advertising, and content.
