@@ -38,6 +38,7 @@
 - [Hivemeld](https://www.hivemeld.ai/buy?plan=annual&utm_source=sarat_ai_saas&utm_medium=directory&utm_campaign=GRO-105) - Autonomous AI engineering agents that pick up tickets, open pull requests, and ship software changes continuously in a shared, always-on workspace.
   
 ## AI Image Generation
+- [BabyVideo.ai](https://babyvideo.ai/) - AI baby previews from parent photos and related photo-to-video tools for entertainment, not medical or genetic prediction; limited check-in credits and paid options.
 - [Dall-E](https://openai.com/dall-e-2/) - An AI system that can create realistic images and art from a description in natural language.
 - [Midjourney](https://midjourney.com/home/) - AI that can create realistic images from descriptions and uploaded pictures.
 - [ideogram.ai](https://ideogram.ai/) - AI that can create realistic images from descriptions and uploaded pictures.
