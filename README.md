@@ -192,6 +192,7 @@
 
 ## Career & Job Search
 - [AICareerPivot](https://ai-career-pivot.com/) - AI-powered career transition planner. Build personalized roadmaps based on your skills, finances, and constraints. Includes skill gap analysis, learning resources, and job tracking.
+- [CareJobs.Now](https://carejobs.now/) - Free AI job search for US healthcare workers: describe the job you want in plain words or share your LinkedIn, and it matches you to 170,000+ hospital and clinic jobs with the pay employers post.
 
 ## Dating & Social
 - [Rizz GPT](https://www.rizzgpt.app/) - Dating, Act like an AI character. Improve your rizz.
