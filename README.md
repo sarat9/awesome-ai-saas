@@ -155,6 +155,7 @@
 - [Dall-E](https://openai.com/dall-e/): An AI program that creates images from textual descriptions.
 - [GitHub Copilot](https://copilot.github.com/): An AI-powered code completion tool that helps developers write better code.
 - [FutureTools](https://www.futuretools.io/): A collection of AI-powered tools for developers, including code generation, image recognition, and more.
+- [CurlShot](https://curlshot.com/): A screenshot API with an MCP server, so apps and AI agents can turn any URL, HTML or Markdown into a PNG, PDF or scrolling video.
 
 ## Git
 - [Gitfluence](https://www.gitfluence.com/) - Find the Git Command You Need Now!
