@@ -36,6 +36,7 @@
 - [hyperwriteai](https://www.hyperwriteai.com/) - Uses browser in real-time and does the job for you. HyperWrite helps you work smarter, faster, and with ease.
 - [Potpie AI] - Use pre-built Q&A, Testing, Debugging, LLD agents or create your own custom purpose-built agent for *your* codebase.
 - [Hivemeld](https://www.hivemeld.ai/buy?plan=annual&utm_source=sarat_ai_saas&utm_medium=directory&utm_campaign=GRO-105) - Autonomous AI engineering agents that pick up tickets, open pull requests, and ship software changes continuously in a shared, always-on workspace.
+- [PlaceCall](https://voygr.tech/placecall/) - An AI agent that makes phone calls to US businesses for you (restaurant reservations, appointments, inquiries, quotes), handles phone menus and hold music, and sends back the outcome and a transcript.
   
 ## AI Image Generation
 - [BabyVideo.ai](https://babyvideo.ai/) - AI baby previews from parent photos and related photo-to-video tools for entertainment, not medical or genetic prediction; limited check-in credits and paid options.
