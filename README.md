@@ -135,6 +135,7 @@
 - [CreatorSkills](https://creatorskills.co): Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 - [AISO Tools](https://aisotools.com/): Audits whether ChatGPT, Perplexity, and Google AI Overviews actually recommend your site for the queries your buyers ask, and reports which citations and gaps are blocking it. Free audit; the catalog is also queryable over MCP.
 - [Spur AI](https://www.trispur.com/): AI LinkedIn content engine for B2B consultants, coaches, and agency owners. Generates posts and carousels from a niche and a format, with free no-signup generators plus a public API and MCP server so AI agents can call it directly.
+- [OpenSparta](https://opensparta.com/en): Telegram operations SaaS workspace for conversation discovery and account/proxy management.
 
 
 ## Podcast
