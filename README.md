@@ -192,6 +192,7 @@
 
 ## Career & Job Search
 - [AICareerPivot](https://ai-career-pivot.com/) - AI-powered career transition planner. Build personalized roadmaps based on your skills, finances, and constraints. Includes skill gap analysis, learning resources, and job tracking.
+- [JobEmerge](https://www.jobemerge.work/) - AI career copilot for job-fit analysis, resume translation and editing, cover letters, text-based interview practice, and application tracking.
 
 ## Dating & Social
 - [Rizz GPT](https://www.rizzgpt.app/) - Dating, Act like an AI character. Improve your rizz.
