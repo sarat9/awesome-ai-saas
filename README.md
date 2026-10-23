@@ -135,6 +135,7 @@
 - [CreatorSkills](https://creatorskills.co): Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 - [AISO Tools](https://aisotools.com/): Audits whether ChatGPT, Perplexity, and Google AI Overviews actually recommend your site for the queries your buyers ask, and reports which citations and gaps are blocking it. Free audit; the catalog is also queryable over MCP.
 - [Spur AI](https://www.trispur.com/): AI LinkedIn content engine for B2B consultants, coaches, and agency owners. Generates posts and carousels from a niche and a format, with free no-signup generators plus a public API and MCP server so AI agents can call it directly.
+- [pitchboom.io](https://pitchboom.io): AI motion-design studio for video ads. Paste a product URL or a short brief and get voiced, on-brand video ads in 16:9, 9:16, 1:1, 4:5 and 3:4 for TikTok, Reels, Shorts, Meta and LinkedIn. 500 free credits at sign-up, then plans from €30/month.
 
 
 ## Podcast
