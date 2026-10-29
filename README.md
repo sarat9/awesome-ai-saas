@@ -59,6 +59,7 @@
 - [Auto code](https://autocode.com/) - Turn ideas into software with AI. No more reading API documentation. Build JavaScript-powered bots, scripts and APIs with code generation and instant deployment.
 - [MakeReal.TLDraw](https://makereal.tldraw.com/) - Turn Hand drawn Sketches into Apps . [github](https://github.com/tldraw/make-real?tab=readme-ov-file)
 - [library.relume](https://library.relume.io/) - Design and build a website with prompt. Access the world’s largest library of Figma & Webflow components and build better websites in hours, not days.
+- [AppWizzy](https://appwizzy.com/) - Build and edit web applications from prompts with runtime templates, dedicated cloud development VMs, and Git-backed source editing.
 
 ## AI Design
 - [designer.microsoft](https://designer.microsoft.com/) - AI Designer for marketing brands and banners
