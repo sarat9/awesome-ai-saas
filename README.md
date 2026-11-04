@@ -184,6 +184,7 @@
 ## Analysts Data Analysis
 - [AI for Database](https://aifordatabase.com/) - Connect to any database and query it in natural language. No SQL needed — instant insights, self-refreshing dashboards, and automated workflows triggered by database changes.
 - [akkio](https://www.akkio.com/) - Predictive AI for Analysts. Give your operations a competitive edge with rapid insights and effortless forecasts. No coding required.
+- [DisconfirmAI](https://disconfirmai.com/en) - Investment research that reads company filings and daily public sources, and looks for evidence that could break your thesis before you commit.
 
 ## Real Estate
 - [Imgcreator AI](https://imgcreator.ai/) - Upload a photo of your space,let AI remodel your dream room in seconds
