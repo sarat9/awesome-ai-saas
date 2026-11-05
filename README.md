@@ -192,6 +192,7 @@
 
 ## Career & Job Search
 - [AICareerPivot](https://ai-career-pivot.com/) - AI-powered career transition planner. Build personalized roadmaps based on your skills, finances, and constraints. Includes skill gap analysis, learning resources, and job tracking.
+- [Prizm](https://heyprizm.com/en?utm_source=github-awesome-ai-saas&utm_medium=annuaire&utm_campaign=annuaires-2026-11) - AI job application assistant. Tells you whether a job ad is worth applying to, with your strengths and gaps, then tailors your CV and cover letter to it from your real experience. Freemium.
 
 ## Dating & Social
 - [Rizz GPT](https://www.rizzgpt.app/) - Dating, Act like an AI character. Improve your rizz.
