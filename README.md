@@ -101,6 +101,7 @@
 - [invideo.io](https://invideo.io/): InVideo simplifies video creation with ready-made templates that you can quickly customize even if you’ve never done it before.
 - [move.ai](https://www.move.ai/) - Helps convert normal videos to 3D and  bring motion into digital worlds at a limitless scale
 - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - Accurately Lip-syncing Videos to the given Audio
+- [RefVid](https://refvid.com/): Upload 1-10 photos of a product or a person once and generate 3-30 second AI videos that keep the label, shape and face the same in every clip. Free 5-second video on sign-up.
 
 
 ## Video Person Character
