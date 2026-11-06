@@ -184,6 +184,7 @@
 ## Analysts Data Analysis
 - [AI for Database](https://aifordatabase.com/) - Connect to any database and query it in natural language. No SQL needed — instant insights, self-refreshing dashboards, and automated workflows triggered by database changes.
 - [akkio](https://www.akkio.com/) - Predictive AI for Analysts. Give your operations a competitive edge with rapid insights and effortless forecasts. No coding required.
+- [EarlyLore](https://earlylore.com/) - Research workspace for founders studying real SaaS products: revenue signals and competitor page changes with source and observation date kept next to each change.
 
 ## Real Estate
 - [Imgcreator AI](https://imgcreator.ai/) - Upload a photo of your space,let AI remodel your dream room in seconds
