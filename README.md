@@ -99,6 +99,7 @@
 - [Pictory.ai](https://pictory.ai/): Turn Scripts Into Jaw-Dropping Sales Videos. Transform Blog Posts Into Engaging Videos On Auto-Pilot. 
 - [videos.social](https://videos.social/?utm_source=awesome-ai-saas&utm_medium=directory&utm_campaign=listing-wave-d): Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included.
 - [invideo.io](https://invideo.io/): InVideo simplifies video creation with ready-made templates that you can quickly customize even if you’ve never done it before.
+- [FacelessShorts](https://facelessshorts.io/): Scripted faceless short-form video series with voiceover, captions, and scheduled publishing to Shorts, TikTok, and Reels.
 - [move.ai](https://www.move.ai/) - Helps convert normal videos to 3D and  bring motion into digital worlds at a limitless scale
 - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - Accurately Lip-syncing Videos to the given Audio
 
