@@ -83,6 +83,9 @@
 - [BGPT MCP](https://bgpt.pro) - Hosted MCP server for searching scientific papers with full-text experimental data. 50 free searches, no API key needed.
 - [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) - Base mainnet research API. Free x402 discovery; external USDC payers can buy a short research report ($2) or OpenAI-compatible chat ($0.001).
 
+## Prompt Tools
+- [Prompt Generator](https://trypromptgenerator.com) - Writes prompts in the syntax of the AI tool you pick: ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more. 10 free prompts a day without an account.
+
 ## Text to Speech / Voice / Language / Dubbing
 - [Descript](https://www.descript.com/home-3) - Very human-readable and clones your voice. Text to speech to make video and podcasts.
 - [Eleven Labs](https://beta.elevenlabs.io/) -  Brings rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling. Can use different accents and languages.
