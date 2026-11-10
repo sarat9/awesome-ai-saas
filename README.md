@@ -103,7 +103,6 @@
 - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - Accurately Lip-syncing Videos to the given Audio
 - [Imagera](https://imagera.ai/): Paid - Browser studio for text/image to video, image generation and editing, lip-sync and voice across many models, with a cost estimate before each run.
 
-- [Imagera](https://imagera.ai/): Paid - Create and edit AI videos and images with many models side by side; Character IDs keep a face or product the same across shots. Also voice and music.
 
 ## Video Person Character
 - [D-ID](https://www.d-id.com/): AI-generated person character talks the text.
