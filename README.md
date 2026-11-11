@@ -175,6 +175,7 @@
 
 ## Conversation
 - [Conversai](https://conversai.co/) - AI chat assistant that helps you respond to anything with just one click across any social media platform.
+- [Genaya](https://genaya.com/) - AI receptionist for service businesses that answers calls, texts and chats, books appointments, and runs scheduling, CRM and invoicing in one app.
 - [Hellomatik](https://hellomatik.com) - AI agents that prepare a company's decisions from one blueprint of its data, procedures and formulas, for an approver to accept, amend or reject.
 - [Hermes](https://buildwithhermes.com/) - White label AI voice agent platform for agencies. Deploy phone agents under your own brand with built in CRM, outbound campaign orchestration, and per minute usage billing. Plans from $149/mo with 300 included minutes.
 
