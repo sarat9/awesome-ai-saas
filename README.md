@@ -101,6 +101,7 @@
 - [invideo.io](https://invideo.io/): InVideo simplifies video creation with ready-made templates that you can quickly customize even if you’ve never done it before.
 - [move.ai](https://www.move.ai/) - Helps convert normal videos to 3D and  bring motion into digital worlds at a limitless scale
 - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - Accurately Lip-syncing Videos to the given Audio
+- [ToHD](https://tohd.video/): Free AI video upscaler that runs in the browser on your own GPU. Turns 360p/480p clips into 720p or 1080p without uploading the video.
 
 
 ## Video Person Character
