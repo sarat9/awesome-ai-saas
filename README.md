@@ -26,6 +26,7 @@
 - [Feathery.io](https://www.feathery.io/)Powerful AI form builder for product teams
 - [SMOL AI](https://github.com/smol-ai/developer) - Human-centric & Coherent Whole Program Synthesis aka your own personal junior developer
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter) - Lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface.
+- [No Stairs Please](https://nostairsplease.com/mcp) - Live music venue directory and MCP server for independent bands and booking agents to search 3,400+ under-400-capacity rooms.
 - [hyperwriteai](https://www.hyperwriteai.com/) - Uses browser in real-time and does the job for you. HyperWrite helps you work smarter, faster, and with ease.
 - [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 
