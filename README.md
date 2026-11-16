@@ -108,6 +108,7 @@
 - [B-Human](https://www.bhuman.ai/): AI real-time person character talks the text with different inputs.
 - [Synthesia.io](https://www.synthesia.io/): Create professional videos. Turn text into speech in over 120+ languages. Choose from over 125+ diverse AI Avatars.
 - [Deepbrain.io](https://www.deepbrain.io/): Create generative AI videos with just a script. Text to video. Photo-realistic AI avatars
+- [Twistavo](https://twistavo.com/): AI video studio to replace a person or character in an existing clip (Scene Recast) and run video and image models; monthly plans from $3.99.
 
 ## VFX 
 - [WonderDynamics](https://wonderdynamics.com/) - An AI tool that automatically animates, lights and composes CG characters into a live-action scene
