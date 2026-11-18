@@ -89,6 +89,7 @@
 - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - Accurately Lip-syncing Videos to the given Audio
 - [voice.ai](https://voice.ai/) - Free Real Time Voice Changer. Choose from 1000s of different voices in Voice Universe and create your own with audio.
 - [NitroTranslate](https://nitrotranslate.com) - First professional human translation service payable by AI agents via Machine Payments Protocol.
+- [Miragea](https://miragea.ai/) - Clone a voice from a 5–10 second sample and dub videos with multiple speakers in 10 languages. Free 2,000 characters, paid plans from $1.99/month.
 
 
 ## Video Generation and Editing
