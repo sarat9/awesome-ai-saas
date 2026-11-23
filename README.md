@@ -52,6 +52,7 @@
 - [igly.ai](https://igly.ai/) - Free AI image editor with 12+ tools for e-commerce sellers — background removal, image generation, inpainting, upscaling, virtual try-on.
 - [Craiyon](https://www.craiyon.com/) - Formerly DALL·E mini, Craiyon is an AI model that can draw images from any text prompt!
 - [Imgcreator AI](https://imgcreator.ai/) - Text to image, image to image & chatGPT powered AI designer. Upload a photo of your space,let AI remodel your dream room in seconds
+- [EmptyRoom AI](https://emptyroomai.com/) - AI virtual staging for real estate listing photos: furnish vacant rooms in any style at $4 per room with free restages.
 
 ## Build Apps with AI
 - [LLMGraph](https://llmgraph.ai/) - No-code visual builder for LLM workflows. Turn your docs and models into RAG chatbots and AI agents, then deploy each to a REST API and an embeddable chat widget in one click.
