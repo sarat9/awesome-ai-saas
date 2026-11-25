@@ -65,6 +65,7 @@
 - [Diagram](https://diagram.com/) - Design tools for figma, svgs, images and many.
 - [logomaster.ai](https://logomaster.ai/) - Make a Logo in 5 Minutes
 - [library.relume](https://library.relume.io/) - Design and build a website with prompt. Access the world’s largest library of Figma & Webflow components and build better websites in hours, not days.
+- [Kite (kite.new)](https://kite.new) - Agent-first design tool where humans and AI agents work on the same HTML/CSS file. Hosted MCP server, components and variants, variable modes, Figma paste both ways. Free plan.
 
 
 
