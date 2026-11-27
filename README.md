@@ -184,6 +184,7 @@
 ## Analysts Data Analysis
 - [AI for Database](https://aifordatabase.com/) - Connect to any database and query it in natural language. No SQL needed — instant insights, self-refreshing dashboards, and automated workflows triggered by database changes.
 - [akkio](https://www.akkio.com/) - Predictive AI for Analysts. Give your operations a competitive edge with rapid insights and effortless forecasts. No coding required.
+- [Frank AI Researcher](https://www.hifrank.ai/?utm_source=awesome-ai-saas&utm_medium=directory&utm_campaign=chatgpt-app) - AI-moderated voice interviews with your own customers in 50+ languages, turned into transcripts, themes and quotes. Available as an app in ChatGPT, and works with Claude, Grok and Muse over MCP. Free plan with 60 voice minutes a month.
 
 ## Real Estate
 - [Imgcreator AI](https://imgcreator.ai/) - Upload a photo of your space,let AI remodel your dream room in seconds
