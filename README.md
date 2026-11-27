@@ -101,6 +101,7 @@
 - [invideo.io](https://invideo.io/): InVideo simplifies video creation with ready-made templates that you can quickly customize even if you’ve never done it before.
 - [move.ai](https://www.move.ai/) - Helps convert normal videos to 3D and  bring motion into digital worlds at a limitless scale
 - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - Accurately Lip-syncing Videos to the given Audio
+- [Seedance AI Video Generator](https://www.seeddance.io/): Browser-based AI video generator that runs Seedance 2.5 and other video models. The first clip is free with no login; paid plans add credits and higher resolutions.
 
 
 ## Video Person Character
